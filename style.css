@@ -20,9 +20,7 @@ body{
   font-family: Helvetica, sans-serif;
   overflow-x: hidden;
 }
-.navbar{
-  overflow-x: hidden;
-}
+
 #warna{
   color: #4FA095;
 }
